@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035507828482",
+    "project_id": "mynotes-hakor-app-d9140",
+    "storage_bucket": "mynotes-hakor-app-d9140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035507828482:android:237f96068400db1e7ce41b",
+        "android_client_info": {
+          "package_name": "sl.hakorappsbird.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035507828482-83ggh78iaqm19knsmo96cgjvtu1v5lcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMT67DoV4egse-GhyyHKkdRQYGqnH9XSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035507828482-83ggh78iaqm19knsmo96cgjvtu1v5lcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
